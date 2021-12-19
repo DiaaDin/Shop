@@ -1,5 +1,4 @@
 import styled from "styled-components";
-import jump from "../imgs/jump.jpg";
 import { Add, Remove } from "@material-ui/icons";
 import { mobile, tab } from "../responsive";
 import DressesList from "./DressesList"
@@ -122,7 +121,7 @@ const Product = () => {
     <Container>
       <Wrapper>
         <ImgContainer>
-          <Img src={jump} />
+          <Img src="https://i.ibb.co/yyG80qB/jump.jpg" />
         </ImgContainer>
         <InfoContainer>
           <Title>Denim Jumpsuit</Title>
