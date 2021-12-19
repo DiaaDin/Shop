@@ -101,7 +101,7 @@ const Navbar = () => {
                   color: "gray", fontSize:16,cursor:"pointer"}}></Search>
           </SearchContainer>
         </Left>
-        <Center><Logo to="/">Shop.</Logo></Center>
+        <Center><Logo to="/Shop">Shop.</Logo></Center>
         <Right>
             <MenuItem to="/Register">REGISTER</MenuItem>
             <MenuItem to="/Login">SIGN IN</MenuItem>
